@@ -34,11 +34,7 @@ module ChicagoOwnedLand
 			land
 		end
 
-		# employees = []
-		# 	api_array.each do |employee_info|
-		# 		employees << Employee.new(employee_info)
-		# 	end	
-		# 	employees
+
 
 	end
 end
